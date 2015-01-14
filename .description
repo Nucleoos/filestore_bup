@@ -1,0 +1,1 @@
+A bup backend for Odoo filestore, to benefit from deduplication and versionning of files
